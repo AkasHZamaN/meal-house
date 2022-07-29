@@ -1,0 +1,25 @@
+[debug] [2022-07-29T11:36:00.837Z] ----------------------------------------------------------------------
+[debug] [2022-07-29T11:36:00.839Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\DELL\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-07-29T11:36:00.839Z] CLI Version:   11.2.2
+[debug] [2022-07-29T11:36:00.839Z] Platform:      win32
+[debug] [2022-07-29T11:36:00.839Z] Node Version:  v16.13.2
+[debug] [2022-07-29T11:36:00.847Z] Time:          Fri Jul 29 2022 17:36:00 GMT+0600 (Bangladesh Standard Time)
+[debug] [2022-07-29T11:36:00.847Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-07-29T11:36:00.855Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-07-29T11:36:00.855Z] > authorizing via signed-in user (akashzaman4@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\projects\Redux\meal-house
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
